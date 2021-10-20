@@ -80,7 +80,6 @@ document.addEventListener('DOMContentLoaded',()=>{
                 square.innerHTML='🏴'
                 square.classList.add('flag')
                 flags+=1;
-                console.log(flags)
             }
             checkWin()
             
