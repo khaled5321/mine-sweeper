@@ -1,4 +1,4 @@
-This is a mine sweeper game built using HTML, Css and JavaScript
+This is a minesweeper game built using HTML, CSS and JavaScript
 
 I built this game with the help of Ania Kubow tutorial [here](https://www.youtube.com/watch?v=W0No1JDc6vE&list=WL&index=38&ab_channel=TraversyMedia)
 
